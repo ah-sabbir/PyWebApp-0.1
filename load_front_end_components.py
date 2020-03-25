@@ -18,4 +18,4 @@ def bootstrapLoading():
     print("Front End Components Loaded")
 
 
-bootstrapLoading()
+
